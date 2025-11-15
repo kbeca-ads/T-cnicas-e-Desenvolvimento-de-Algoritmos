@@ -18,6 +18,6 @@ python src/main.py
 | Integrante | GitHub |
 |-------------|---------|
 
-| <img src="https://github.com/Vitorddorea.png" width="80" style="border-radius:50%"> <br> **Vitor Daniel Dorea Santos** <br> 📍 Desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas <br> 💬 Entusiasta em tecnologia, sempre buscando novas formas de inovar e colaborar em equipe. | [github.com/Vitorddorea](https://github.com/Vitorddorea) |
+| <img src="https://github.com/Vitorddorea.png" width="80" style="border-radius:50%"> <br> **Vitor Daniel Dorea Santos** <br> 📍 Desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas <br> 💬 Entusiasta em tecnologia, sempre buscando novas formas de inovar e colaborar em equipe. | [github.com/Vitorddorea](https://github.com/Vitorddorea) |<br>
 | <img src="https://github.com/kbeca-ads.png" width="80" style="border-radius:50%"> <br> **John Lucas Garcia dos Santos** <br> 📍 Desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas <br> 💬 Entusiasta em tecnologia, sempre buscando novas formas de inovar e colaborar em equipe. | [github.com/kbeca-ads](https://github.com/kbeca-ads) |
 
