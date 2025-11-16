@@ -66,13 +66,21 @@ Relatório geral de tarefas.
 Relatório apenas de tarefas arquivadas.
 
 🗂 Estrutura de Arquivos do Projeto
+
 Arquivo	Função
+
 gerenciador_tarefas.py	Código principal do sistema
+
 tarefas.json	Banco de dados principal
+
 tarefas_arquivadas.json	Histórico de tarefas arquivadas
+
 README.md	Documentação
+
 .gitignore	Itens ignorados no Git
+
 LICENSE	Licença MIT
+
 🚀 Como Executar o Sistema
 
 No terminal, execute:
